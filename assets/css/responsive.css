@@ -259,6 +259,10 @@
         top: 5%;
         left: -83px;
     }
+    .content_third_content_video iframe{
+      width: 361px;
+      height: 230px;
+    }
     #content_third{
         height: 1200px;
     }
