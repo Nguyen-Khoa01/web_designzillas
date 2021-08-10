@@ -69,7 +69,7 @@
     #footer {
         margin-top: -405px;
         height: 800px;
-        background: url("/assets/img/grass-tile-tablet.png") repeat-x 0 10px;
+        background: url("../../assets/img/grass-tile-tablet.png") repeat-x 0 10px;
     }
     #footer::after{
         contain: "";
