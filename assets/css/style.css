@@ -163,14 +163,14 @@ html {
     display: block;
 }
 #slider{
-   background: url('/assets/img/palm-bg.svg') 50% 0 / cover no-repeat;
+   background: url('../../assets/img/palm-bg.svg') 50% 0 / cover no-repeat;
    width: 100%;
    height: 800px;
    position: relative;
    overflow: hidden;
 }
 #slider::after{
-    background: url(/assets/img/grunge-stripe.png) repeat-x bottom left;
+    background: url(../../assets/img/grunge-stripe.png) repeat-x bottom left;
     content: " ";
     width: 100%;
     height: 101px;
@@ -197,7 +197,7 @@ html {
 }
 .slider_treefirst, 
 .slider_treesecond {
-   background: url('/assets/img/tree.svg') center center / contain no-repeat;
+   background: url('../../assets/img/tree.svg') center center / contain no-repeat;
     position: absolute;
    display: block;
    opacity: 0.8;
@@ -216,7 +216,7 @@ html {
     filter: saturate(8);
 }
 .slider_fog{
-    background: url(/assets/img/fog.png) center center / cover no-repeat;
+    background: url(../../assets/img/fog.png) center center / cover no-repeat;
     width: 9888px;
     height: 100%;
     position: absolute;
@@ -241,7 +241,7 @@ html {
     text-shadow: 1px 1px 1px #000;
 }
 .slider_content_srcoll{
-     background: url('/assets/img/down-arrow.png') no-repeat center center ;
+     background: url('../../assets/img/down-arrow.png') no-repeat center center ;
      border: 1px solid #66cf28;
      width: 54px;
      height: 65px;
@@ -255,7 +255,7 @@ html {
    background-color: #66cf28;
 }
 .slider_dinosaur{
-    background: url(/assets/img/little-zilla-head.png) center center / cover no-repeat;
+    background: url(../../assets/img/little-zilla-head.png) center center / cover no-repeat;
     position: absolute;
     width: 150px;
     height: 150px;
@@ -288,7 +288,7 @@ bottom: 0;
 z-index: 2;
 }
 .content_first_1{
-    background: url('/assets/img/bg-paint.jpg') 50% 122px / 100% repeat local;
+    background: url('../../assets/img/bg-paint.jpg') 50% 122px / 100% repeat local;
     height: 679px;
     width: 100%;
     position: relative;
@@ -297,7 +297,7 @@ z-index: 2;
 
 .content_first_1::after{
   content: "";
-  background: url('/assets/img/claws-cutout-left.png') center center / cover no-repeat;
+  background: url('../../assets/img/claws-cutout-left.png') center center / cover no-repeat;
   width: 50%;
   height: 100%;
   position: absolute;
@@ -305,7 +305,7 @@ z-index: 2;
 }
 .content_first_1::before{
     content: "";
-    background: url('/assets/img/claws-cutout-right.png') center center / cover no-repeat;
+    background: url('../../assets/img/claws-cutout-right.png') center center / cover no-repeat;
     width: 50%;
     height: 100%;
     position: absolute;
@@ -440,7 +440,7 @@ z-index: 2;
     display: inline-flex;
 }
 .content_second_right{
-   background: url(/assets/img/ADDY\ Award-Winning\ Orlando\ Digital\ Marketing\ Agency.png) center center / contain no-repeat;
+   background: url(../../assets/img/ADDY\ Award-Winning\ Orlando\ Digital\ Marketing\ Agency.png) center center / contain no-repeat;
    height: 602px;
    margin-top: 100px;
 }
@@ -453,7 +453,7 @@ z-index: 2;
 }
 #content_third::after{
     content: "";
-    background:url("/assets/img/grunge-stripe-bottom-black2.png") repeat-x bottom left;
+    background:url("../../assets/img/grunge-stripe-bottom-black2.png") repeat-x bottom left;
     position: absolute;
     bottom: -160px;
     width: 100%;
@@ -461,7 +461,7 @@ z-index: 2;
     z-index: 1;
 }
 .content_third_dinosaur_left{
-    background:url("/assets/img/side-zilla.png") center center / cover no-repeat;
+    background:url("../../assets/img/side-zilla.png") center center / cover no-repeat;
     width: 253px;
     height: 655px;  
     left: -260px;
@@ -474,7 +474,7 @@ z-index: 2;
     animation-timing-function: cubic-bezier(0.5,0.5,1,0.5);
 }
 .content_third_dinosaur_right{
-    background:url("/assets/img/style-zilla.jpg" ) center center / cover no-repeat;
+    background:url("../../assets/img/style-zilla.jpg" ) center center / cover no-repeat;
     width: 253px;
     height: 655px;
     position: absolute;
@@ -489,7 +489,7 @@ z-index: 2;
 }
 
 .content_third_content{
-    background:url("/assets/img/bg-bones.png") center center / contain no-repeat ;
+    background:url("../../assets/img/bg-bones.png") center center / contain no-repeat ;
     width: 50%;
     height: 55%;
     position: absolute;
@@ -505,7 +505,7 @@ z-index: 2;
 }
 .content_third_content::after{
     content: "";
-    background: url("/assets/img/video-image-right.png") center center / contain no-repeat;
+    background: url("../../assets/img/video-image-right.png") center center / contain no-repeat;
     width: 100%;
     height: 75%;
     position: absolute;
@@ -514,7 +514,7 @@ z-index: 2;
 }
 .content_third_content::before{
     content: "";
-    background: url("/assets/img/video-image-left.png") center center / contain no-repeat;
+    background: url("../../assets/img/video-image-left.png") center center / contain no-repeat;
     position: absolute;
     width: 100%;
     height: 75%;
@@ -576,14 +576,14 @@ margin-bottom: 50px;
 
 }
 .content_fourth{
-    background:url("/assets/img/content_fourth.jpg") left top / contain no-repeat;
+    background:url("../../assets/img/content_fourth.jpg") left top / contain no-repeat;
     padding: 200px 0 400px 0;
    
     position: relative;
     overflow: hidden;
 }
 .content_fourth_bird{
-    background: url("/assets/img/pterodactyl.png") center center / cover no-repeat;
+    background: url("../../assets/img/pterodactyl.png") center center / cover no-repeat;
     position: absolute;
     width: 60px;
     height: 60px;
@@ -618,7 +618,7 @@ margin-bottom: 50px;
     transform: rotate( -60deg );
 }
 .content_fourth_body_item_hexagon2{
-    background:url("/assets/img/CRMB2BBestPractices_3.png") left top / cover no-repeat;
+    background:url("../../assets/img/CRMB2BBestPractices_3.png") left top / cover no-repeat;
     width: 100%;
     height: 100%;
     transform: rotate(-60deg);
@@ -682,7 +682,7 @@ margin-bottom: 50px;
     font-weight: 400;
 }
 .content_fourth_body_item_hexagon2 a{
-    background:url("/assets/img/icon-blog-btn.png") center center / contain no-repeat;
+    background:url("../../assets/img/icon-blog-btn.png") center center / contain no-repeat;
     position: absolute;
     bottom: -14px;
     width: 167px;
@@ -692,14 +692,14 @@ margin-bottom: 50px;
     transition: all ease .25s;
 }
 #footer{
- background:url("/assets/img/grass-tile-cutout.png") center center / cover no-repeat;
+ background:url("../../assets/img/grass-tile-cutout.png") center center / cover no-repeat;
  margin-top: -300px;
  position: relative;
  height: 1300px;
 }
 #footer::after{
     content: "";
-    background: url(/assets/img/footer-bones.png) center center / cover no-repeat;
+    background: url(../../assets/img/footer-bones.png) center center / cover no-repeat;
     position: absolute;
     width: 437px;
     height: 466px;
@@ -790,7 +790,7 @@ margin-bottom: 50px;
     text-decoration: none;
     color: #fff;
     padding: 0 32px 0 40px;
-    background: url(/assets/img/icon-crossbones.svg) no-repeat 0 3px;
+    background: url(../../assets/img/icon-crossbones.svg) no-repeat 0 3px;
     font-family: 'Roboto Mono', monospace;
     transition: all linear 0.1s;
 }
